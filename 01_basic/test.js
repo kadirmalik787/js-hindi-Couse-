@@ -1,1 +1,1 @@
-console.log("kadir")
+conso
