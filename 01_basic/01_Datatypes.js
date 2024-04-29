@@ -7,7 +7,7 @@ let name ="kadir"
 let age = 23
 let isLoggedIn = false;
 
-//  primitive datatype in  js 
+//  primitive datatype in  js 7 types
 // number => 2 to power 53 is range ke aage number add nhi huge 
 // bigint use for big number for exm. crypto side 
 // string=>""
